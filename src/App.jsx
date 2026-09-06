@@ -4,7 +4,7 @@ import {Projects} from "@/sections/Projects";
 import {Experience} from "@/sections/Experience";
 import {Certifications} from "@/sections/Certifications";
 import {Contact} from "@/sections/Contact";
-import { Navbar } from "@/layout/navbar";
+import { Navbar } from "@/layout/Navbar";
 import { Footer } from "@/layout/Footer";
 
 function App() {
